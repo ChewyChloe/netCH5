@@ -1,0 +1,6 @@
+{
+  "name": "電腦網路控制平面互動學習系統",
+  "description": "電腦網路控制平面互動式學習平台，包含 OSPF、BGP、Dijkstra 演算法互動模擬器與動態評測系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
